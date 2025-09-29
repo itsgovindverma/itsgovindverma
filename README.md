@@ -1,16 +1,17 @@
 # Hi 👋, I'm Govind Verma  
 
-🚀 A passionate **.NET Developer**
-💻 Currently working in a software company with 2+ year of experience  
+🚀 A passionate **.NET Developer**  
+💻 Currently working in a software company with 2+ years of experience  
 📚 MCA Student | Always eager to learn & grow  
 
 ---
 
 ## 💡 About Me  
-💻 Building scalable, high-performance web applications
-🔭 Currently working as Junior Software Developer at LOGIC ERP
-🌱 Exploring C++, .NET, Angular, and Data Workflows
-⚡ Passionate about problem-solving & clean architecture
+
+- 💻 Building scalable, high-performance web applications  
+- 🔭 Junior Software Developer at **LOGIC ERP**  
+- 🌱 Exploring **C++**, **.NET**, **Angular**, and **Data Workflows**  
+- ⚡ Passionate about **problem-solving & clean architecture**  
 
 ---
 
