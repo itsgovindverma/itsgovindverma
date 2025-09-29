@@ -22,8 +22,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?itsgovindverma=itsgovindverma&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?itsgovindverma=itsgovindverma&layout=compact&theme=radical)  
+![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsgovindverma&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsgovindverma&layout=compact&theme=radical)  
 
 ---
 
