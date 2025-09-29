@@ -7,18 +7,20 @@
 ---
 
 ## 💡 About Me  
-- 🌱 Learning **Angular, SQL**  
-- 🛠️ Skilled in **C#, .NET Core, Entity Framework, LINQ, ADO.NET**   
-- ⚡ Fun fact: I love fitness & gym 🏋️  
+💻 Building scalable, high-performance web applications
+🔭 Currently working as Junior Software Developer at LOGIC ERP
+🌱 Exploring C++, .NET, Angular, and Data Workflows
+⚡ Passionate about problem-solving & clean architecture
 
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** C#, SQL  
-**Frameworks:** .NET Core, MVC, Entity Framework  
-**Databases:** SQL Server, PostgreSQL  
-**Tools:** Git, GitHub, Visual Studio, VS Code  
 
+Languages: C#, JavaScript, SQL
+Frameworks/Libraries: .NET, ASP.NET Identity, Angular, React
+Web: HTML, CSS
+Practices: REST APIs, Generic Repository, Git/GitHub
+Tools: VS Code, Git, GitHub, Postman
 ---
 
 ## 📊 GitHub Stats  
@@ -41,11 +43,11 @@
 ---
 
 ## 🤝 Let’s Connect  
-<p align="left">
-<a href="https://www.linkedin.com/in/itsgovindverma" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
-<a href="mailto:govindverma2932@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/itsgovindverma" target="blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" /></a>
-</p>
+
+- 📧 **Email**: [govindverma2932@gmail.com](mailto:govindverma2932@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/itsgovindverma](https://www.linkedin.com/in/itsgovindverma)  
+- 🏆 **LeetCode**: [leetcode.com/itsgovindverma](https://leetcode.com/itsgovindverma)  
+
 
 ---
 
