@@ -17,11 +17,12 @@
 
 ## 🛠️ Tech Stack  
 
-Languages: C#, JavaScript, SQL
-Frameworks/Libraries: .NET, ASP.NET Identity, Angular, React
-Web: HTML, CSS
-Practices: REST APIs, Generic Repository, Git/GitHub
-Tools: VS Code, Git, GitHub, Postman
+- **Languages:** ⚡ C# | 💛 JavaScript | 🗄️ SQL  
+- **Frameworks / Libraries:** 🖥️ .NET | 🔐 ASP.NET Identity | ⚡ Angular | ⚛️ React  
+- **Web:** 🌐 HTML | 🎨 CSS  
+- **Practices:** 🔗 REST APIs | 🏗️ Generic Repository | 🌀 Git/GitHub  
+- **Tools:** 🛠️ VS Code | 🧭 Git | 📂 GitHub | 📬 Postman  
+
 ---
 
 ## 📊 GitHub Stats  
